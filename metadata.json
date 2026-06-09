@@ -1,0 +1,6 @@
+{
+  "name": "SmartProxy HUB",
+  "description": "Smart aggregator for V2ray premium configurations and worldwide Telegram MTProto proxies with built-in network optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
